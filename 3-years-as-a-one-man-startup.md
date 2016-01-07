@@ -1,17 +1,13 @@
-# 3 Years as a One Man Startup
+# ボッチスタートアップ開始から三年経った結果…
 
 I’ve spent most of the past 3 years creating one language learning web-app,
-[Readlang](http://readlang.com).
+ある言語を学習するウェブアプリ[Readlang](http://readlang.com)を創りだすのに、ほぼ過去3年全部を使った。
 
-I [wrote about my struggle to get this off the ground almost two years
-ago](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
-learning-web-app.html) and was thrilled with the response on [Hacker
-News](https://news.ycombinator.com/item?id=7450519) and elsewhere. I’ve been
-meaning to write a followup for a long time, but would always convince myself
-to wait…
+[ほぼ2年前、地面から飛び立つための私の奮闘について書いた](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
+learning-web-app.html)、そして、[ハッカーニュース](https://news.ycombinator.com/item?id=7450519)やその他メディアの反応ワクワクしていた。
+長い間続編を書こうとずっと思っていた。でも、いつも自分自信に「待て…まだだ」と言い聞かせてきたのかも知れない。
 
-> Just a couple more tweaks and usage will explode. Then I’ll have something
-to write about!
+> ひねりと使用法の組み合わせがついに爆発しそうで、そして、僕はそれについて書くための何かを手に入れられそうだった。
 
 Well here I am, three years later. Usage didn’t explode, but grew in fits and
 starts. I’ve worked hard for 3 years and am _still making less than minimum
@@ -71,3 +67,8 @@ I’m continuing.
 I plan to write more about creating Readlang. If you’d like to ask a question,
 suggest a topic, or hear updates, please find me on twitter
 [@Steve_Ridout](https://twitter.com/Steve_Ridout).
+
+## この表現の和訳が難しかったリスト
+get this off the ground 
+I've been meaning to : ずっと～しようと思っていた
+Just a couple more tweaks and usage will explode.
