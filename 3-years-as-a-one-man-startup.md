@@ -1,13 +1,12 @@
-# 3 Years as a One Man Startup
+# ぼっちスタートアップの3年間
 
-私はここ3年間の大半を、語学学習webアプリの開発に捧げました。
-[Readlang](http://readlang.com).
+私はここ3年間の大半を、[Readlang](http://readlang.com)という語学学習webアプリの開発に捧げました。
 
 私は[2年ほど前に、このプロダクトを軌道に乗せるための苦闘の跡を書き](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
 learning-web-app.html)[Hacker
 News](https://news.ycombinator.com/item?id=7450519)や他の場所での反応に興奮しました。ずっとそのフォロー記事を書きたいなと思ってましたが、ずっと自分に我慢するよう言い聞かせていたのです。。
 
-> もうひとひねりくらいで利用者も跳ね上がるはずだ。そうしたらきっと何か書くべきこともあるに違いない！
+> もうひとひねりくらいすれば利用者も跳ね上がるはずだ。そうしたらきっと何か書くべきこともあるに違いない！
 
 そしていま私はその3年後にいます。利用者は跳ねませんでした、しかし気まぐれにときどき成長しました。 私は3年間ハードに働き、_依然最低賃金を下回っています_。しかしそれは見た目ほど悪いものではありません。
 
@@ -16,19 +15,18 @@ News](https://news.ycombinator.com/item?id=7450519)や他の場所での反応�
 新規契約は1年目の2,800から2年目で9,300、3年目で36,800件まで増えました。 収入は、1年目がだいたい$700、2年目が$4,100、そして3年目で$16,500です。 費用は少ないので、3年目で利益は約$14500となります。イギリスポンドで約£9,700です。最低賃金で週28時間働けばもっと稼げます。
 わたしはそれより_とても_働きました、なので経験豊富なソフトウェア開発者としては高い機会費用を払ったことになります。
 
-I regularly question my decision to continue pouring so much time into
-Readlang. I wonder about the lucrative life of a contractor, or the cushy job
-of software developer at a large tech company. I wonder if I’m hurting my
-chances of future employment by working so long on my own.
+私はこれほどの時間をReadlangに捧げたことが正しかったのか、繰り返し自分に問いかけています。
+私は会社員の生活や、テック系大企業のソフトウェア開発者という快適な職のことが気になります。
+またこんなにも長く自分の仕事にかかっていることで、将来雇用される可能性を自らダメにしているんじゃないかと不安になります。
 
-On the other hand, profits have grown 480% over the past year. If this
-continues, the future looks good. In year 4 (2016) I would make a typical UK
-software developer salary, and by the end of year 5 I’d be financially
-rewarded for the risk I’ve taken compared to being employed. But that’s still
-**two years away**. And is it even realistic to expect the trend to continue?
-I don’t know, but I’m making a bet that while I continue to work on it, the
-answer is yes.
+その一方で、過去一年間で利益は480％伸びました。もしこれが続けば、将来の見通しはよさそうです。
+4年目(2016年)には、私はイギリスの平均的なソフトウェア開発者の給与程度を稼げるでしょう。
+そして5年目の終わりまでには、雇用されていた場合に比べて私が冒していたリスクが、金銭的には報われることになるでしょう。
+しかしそれでもそれは**2年も先の話**なのです。
+そしてそもそもこんな成長が続くなんていう期待は本当に現実的でしょうか。
+それはわかりません、ただ私がこの仕事を続ける以上、答えはYESだと賭けているのです。
 
+生活のためならもっと楽な方法はあります。しかし私は自分のやっていることに誇りを持っていますし、これは**本当に人が言語を学ぶ助けになっている**と思っているのです。ここに、私がここ1ヶ月にメールで受け取った**たくさんの引用**のうち、2つほど掲載します。
 There are easier ways of making a living. But I’m proud of what I’m making,
 and it seems to _genuinely help people to learn languages_. Here are a couple
 of the _many quotes_ I’ve received by email within the past month:
@@ -36,8 +34,7 @@ of the _many quotes_ I’ve received by email within the past month:
 > En primeras palabras quiero decir, que me gusta muchísimo tu pagina. Es de
 verdad grande trabajo.
 
-If your Spanish isn’t great, try [reading the above quote on
-Readlang](http://readlang.com/library/568a5501ddb6ae5b165d2c33).
+もしあなたがスペイン語が苦手なら、この文章をぜひ[Readlangで読んでみてください] (http://readlang.com/library/568a5501ddb6ae5b165d2c33)。
 
 > I’m in a polyglot group, and we all try different language tools constantly
 (Memrise, Anki, FluentU, etc), but I think Readlang has been the “stickiest”
@@ -46,15 +43,13 @@ for the majority of us.
 On top of that, prolific language learner Alex Rawlings recently wrote of
 Readlang:
 
-> This simple tool has changed the way I learn languages forever.
+> このシンプルなツールは、私が語学を学ぶ方法を決定的に変えました。
 
-Feedback like this assures me that I’m doing something right.
+こうしたフィードバックが、私に自分が正しいことをしているようだと保証してくれるのです。
 
-Readlang is [ramen
-profitable](http://www.paulgraham.com/ramenprofitable.html), helping more
-people every day, and there’s still plenty of room for improvement. Of course
-I’m continuing.
+Readlangは、[ramen
+profitable](http://www.paulgraham.com/ramenprofitable.html)です。毎日たくさんの人を助けていますが、依然そこにはいくらでも改善の余地があります。そしてもちろん私はその改善を続けているのです。
 
-I plan to write more about creating Readlang. If you’d like to ask a question,
-suggest a topic, or hear updates, please find me on twitter
+Readlangの立ち上げについてはまだまだ書く予定です。
+もし質問やテーマの提案、続きを聞きたいトピックなどあれば、Twitterでお願いします。
 [@Steve_Ridout](https://twitter.com/Steve_Ridout).
