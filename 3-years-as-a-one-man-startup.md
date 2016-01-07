@@ -1,21 +1,14 @@
-# 3 Years as a One Man Startup
+# ぼっちスタートアップの3年
 
-I’ve spent most of the past 3 years creating one language learning web-app,
-[Readlang](http://readlang.com).
+私はここ3年というもの、[Readlang](http://readlang.com) という言語を学習するWebアプリケーション作成に、ほとんどの時間を費やしてきました。
 
-I [wrote about my struggle to get this off the ground almost two years
-ago](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
-learning-web-app.html) and was thrilled with the response on [Hacker
-News](https://news.ycombinator.com/item?id=7450519) and elsewhere. I’ve been
-meaning to write a followup for a long time, but would always convince myself
-to wait…
+[これを軌道に乗せるための私の苦労について書いた](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
+learning-web-app.html)のはもう2年近くも前のことで、[ハッカーニュース](https://news.ycombinator.com/item?id=7450519)などでの反応に興奮したものです。後日談を書きたいと長い間ずっと思っていたのですが、その度に待たなければと気付くのでした。
 
-> Just a couple more tweaks and usage will explode. Then I’ll have something
-to write about!
+> もう少しだけいじればずっと使いやすくなる。そうしたら何か書くネタが出来きるぞ！
 
-Well here I am, three years later. Usage didn’t explode, but grew in fits and
-starts. I’ve worked hard for 3 years and am _still making less than minimum
-wage_. But that’s not as bad as it might sound.
+さて、そして3年が経った今。使い勝手はそれほど変わりませんでしたが、どうにかこうにか成長しました。
+3年間ずっと頑張って _いまだに最低限の収入も得られてません_。でも、それは言うほど悪くないです。
 
 To survive as a bootstrapper, revenue is essential. But it’s often taboo,
 despite being very useful information. The problem is that if you report a low
