@@ -2,13 +2,13 @@
 
 私はここ3年間の大半を、[Readlang](http://readlang.com)という語学学習webアプリの開発に捧げました。
 
-私は[2年ほど前に、このプロダクトを軌道に乗せるための苦闘の跡を書き](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
-learning-web-app.html)[Hacker
-News](https://news.ycombinator.com/item?id=7450519)や他の場所での反応に興奮しました。ずっとそのフォロー記事を書きたいなと思ってましたが、ずっと自分に我慢するよう言い聞かせていたのです。。
+私は[2年ほど前に、このプロダクトを軌道に乗せるための苦闘について書き](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
+learning-web-app.html)、[Hacker
+News](https://news.ycombinator.com/item?id=7450519)などでの反応に興奮しました。ずっとそのフォロー記事を書きたいなと思ってましたが、そのたび自分に我慢するよう言い聞かせていたのです。。
 
 > もうひとひねりくらいすれば利用者も跳ね上がるはずだ。そうしたらきっと何か書くべきこともあるに違いない！
 
-そしていま私はその3年後にいます。利用者は跳ねませんでした、しかし気まぐれにときどき成長しました。 私は3年間ハードに働き、_依然最低賃金を下回っています_。しかしそれは見た目ほど悪いものではありません。
+そしていまがその3年後です。利用者は跳ねませんでした、しかし気まぐれにときどき成長しました。 私は3年間ハードに働き、_依然最低賃金を下回っています_。しかしそれは見た目ほど悪いものではありません。
 
 起業家として生き残るために、収入は重要です。しかしそれはしばしば、非常に有益な情報であるにも関わらずタブーとされます。 問題は、もしあなたが低い収入を公開しても、真剣だと受けとってもらえないことです。もしあなたが十分稼いでいれば、人は耳を傾けますが同時に競争と嫉妬を招きます。私は依然低い側にいますが。。
 
@@ -27,25 +27,19 @@ News](https://news.ycombinator.com/item?id=7450519)や他の場所での反応�
 それはわかりません、ただ私がこの仕事を続ける以上、答えはYESだと賭けているのです。
 
 生活のためならもっと楽な方法はあります。しかし私は自分のやっていることに誇りを持っていますし、これは**本当に人が言語を学ぶ助けになっている**と思っているのです。ここに、私がここ1ヶ月にメールで受け取った**たくさんの引用**のうち、2つほど掲載します。
-There are easier ways of making a living. But I’m proud of what I’m making,
-and it seems to _genuinely help people to learn languages_. Here are a couple
-of the _many quotes_ I’ve received by email within the past month:
 
 > En primeras palabras quiero decir, que me gusta muchísimo tu pagina. Es de
 verdad grande trabajo.
 
 もしあなたがスペイン語が苦手なら、この文章をぜひ[Readlangで読んでみてください] (http://readlang.com/library/568a5501ddb6ae5b165d2c33)。
 
-> I’m in a polyglot group, and we all try different language tools constantly
-(Memrise, Anki, FluentU, etc), but I think Readlang has been the “stickiest”
-for the majority of us.
+> 私は数カ国語を話す人達のグループに所属していて、メンバーはみな定期的に色々なツール（Memrise, Anki, FluentUなど）を試しますが、ほとんどのメンバーにとってReadlangは"鉄板"になっています
 
-On top of that, prolific language learner Alex Rawlings recently wrote of
-Readlang:
+多作な言語学習者であるAlex Rawlingsは、これに加えて、最近Readlangについてこんなことも書いてくれています：
 
 > このシンプルなツールは、私が語学を学ぶ方法を決定的に変えました。
 
-こうしたフィードバックが、私に自分が正しいことをしているようだと保証してくれるのです。
+こうしたフィードバックが、私はどうやら正しいことをしているようだと保証してくれるのです。
 
 Readlangは、[ramen
 profitable](http://www.paulgraham.com/ramenprofitable.html)です。毎日たくさんの人を助けていますが、依然そこにはいくらでも改善の余地があります。そしてもちろん私はその改善を続けているのです。
