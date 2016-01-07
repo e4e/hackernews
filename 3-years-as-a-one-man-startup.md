@@ -1,33 +1,20 @@
 # 3 Years as a One Man Startup
 
-I’ve spent most of the past 3 years creating one language learning web-app,
+私はここ3年間の大半を、語学学習webアプリの開発に捧げました。
 [Readlang](http://readlang.com).
 
-I [wrote about my struggle to get this off the ground almost two years
-ago](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
-learning-web-app.html) and was thrilled with the response on [Hacker
-News](https://news.ycombinator.com/item?id=7450519) and elsewhere. I’ve been
-meaning to write a followup for a long time, but would always convince myself
-to wait…
+私は[2年ほど前に、このプロダクトを軌道に乗せるための苦闘の跡を書き](http://steveridout.com/2014/03/22/readlang-my-bootstrapped-language-
+learning-web-app.html)[Hacker
+News](https://news.ycombinator.com/item?id=7450519)や他の場所での反応に興奮しました。ずっとそのフォロー記事を書きたいなと思ってましたが、ずっと自分に我慢するよう言い聞かせていたのです。。
 
-> Just a couple more tweaks and usage will explode. Then I’ll have something
-to write about!
+> もうひとひねりくらいで利用者も跳ね上がるはずだ。そうしたらきっと何か書くべきこともあるに違いない！
 
-Well here I am, three years later. Usage didn’t explode, but grew in fits and
-starts. I’ve worked hard for 3 years and am _still making less than minimum
-wage_. But that’s not as bad as it might sound.
+そしていま私はその3年後にいます。利用者は跳ねませんでした、しかし気まぐれにときどき成長しました。 私は3年間ハードに働き、_依然最低賃金を下回っています_。しかしそれは見た目ほど悪いものではありません。
 
-To survive as a bootstrapper, revenue is essential. But it’s often taboo,
-despite being very useful information. The problem is that if you report a low
-revenue, you may not be taken seriously. If you earn a lot, people listen but
-it invites competition and jealousy. I’m still on the low side, so here goes…
+起業家として生き残るために、収入は重要です。しかしそれはしばしば、非常に有益な情報であるにも関わらずタブーとされます。 問題は、もしあなたが低い収入を公開しても、真剣だと受けとってもらえないことです。もしあなたが十分稼いでいれば、人は耳を傾けますが同時に競争と嫉妬を招きます。私は依然低い側にいますが。。
 
-New signups grew from 2,800 in year 1, to 9,300 joining in year 2, and 36,800
-joining in year 3. Revenue was roughly $700 in year 1, $4100 in year 2, and
-$16500 in year 3. Expenses are low so the profit in year 3 was about $14500.
-That’s roughly equivalent to £9,700 British pounds. I’d earn more working 28
-hours a week at minimum wage. I worked _a lot_ more than that, so as an
-experienced software developer have paid a high opportunity cost.
+新規契約は1年目の2,800から2年目で9,300、3年目で36,800件まで増えました。 収入は、1年目がだいたい$700、2年目が$4,100、そして3年目で$16,500です。 費用は少ないので、3年目で利益は約$14500となります。イギリスポンドで約£9,700です。最低賃金で週28時間働けばもっと稼げます。
+わたしはそれより_とても_働きました、なので経験豊富なソフトウェア開発者としては高い機会費用を払ったことになります。
 
 I regularly question my decision to continue pouring so much time into
 Readlang. I wonder about the lucrative life of a contractor, or the cushy job
